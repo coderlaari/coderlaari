@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @coderlaari
-- Im good in HTML and Python coding.
+- Im good in HTML, CSS and Python coding
 - Im happy 😊
